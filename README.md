@@ -1,2 +1,3 @@
 # ai-agentex 
-scanner agent== agent is returning mock data instead of actual bubble detection v>v2 actual detection
+scanner agent== agent is returning mock data instead of actual bubble detection v>v2 actual detection failed cause not exact cordinate and messy pic ---v3 >add mouse click to figure exact cordinate - test sheet img changed  -----Scanning test_sheet.jpg...
+{'1': 'D', '2': 'B', '3': '?'}
