@@ -1,3 +1,9 @@
 # ai-agentex 
 scanner agent== agent is returning mock data instead of actual bubble detection v>v2 actual detection failed cause not exact cordinate and messy pic ---v3 >add mouse click to figure exact cordinate - test sheet img changed  -----Scanning test_sheet.jpg...
 {'1': 'D', '2': 'B', '3': '?'}
+gradient agent == 
+output 
+Scanning test_sheet.jpg...
+Grading test...
+Answers: {'1': 'D', '2': 'B', '3': '?'}
+Score: {'score': 2, 'total_questions': 3, 'percentage': 66.66666666666666, 'results': {'3': {'student_answer': '?', 'correct_answer': 'C', 'is_correct': None}}}
