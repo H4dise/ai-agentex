@@ -1,7 +1,8 @@
 # ai-agentex 
 scanner agent== agent is returning mock data instead of actual bubble detection v>v2 actual detection failed cause not exact cordinate and messy pic ---v3 >add mouse click to figure exact cordinate - test sheet img changed  -----Scanning test_sheet.jpg...
 {'1': 'D', '2': 'B', '3': '?'}
-gradient agent == 
+gradient agent ==
+v1 works quite good /compare detected answer with answer key 3 statue it doest -1 if answer is empty(? )
 output 
 Scanning test_sheet.jpg...
 Grading test...
